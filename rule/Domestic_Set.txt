@@ -74,3 +74,5 @@ DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,mob.com
+DOMAIN-SUFFIX,mgtv.com
+DOMAIN-SUFFIX,cdn-go.cn

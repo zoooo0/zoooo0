@@ -105,3 +105,11 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,motiful.ai
 DOMAIN-SUFFIX,yandex.net
 DOMAIN-SUFFIX,miaozhen.com
+DOMAIN,bigdata.icu
+DOMAIN-SUFFIX,twimg.com
+DOMAIN,x.com
+DOMAIN,flo.ing
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,featurebase.app
+DOMAIN-SUFFIX,flo.ing
+DOMAIN-SUFFIX,meetings.googleapis.com
