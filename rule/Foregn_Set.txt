@@ -72,7 +72,6 @@ DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,stbuttons.click
 DOMAIN,us-central1-bcny-arc-server.cloudfunctions.net
-DOMAIN-SUFFIX,ppppppeeesss.info
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,play.googleapis.com
@@ -113,3 +112,13 @@ DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,featurebase.app
 DOMAIN-SUFFIX,flo.ing
 DOMAIN-SUFFIX,meetings.googleapis.com
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN,t.me
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,addons-pa.googleapis.com
+DOMAIN-SUFFIX,mnaspm.com
+DOMAIN,stripchat.com
+DOMAIN,tsyndicate.com
+DOMAIN-SUFFIX,bncloudfl.com
+DOMAIN-SUFFIX,gitbook.io
