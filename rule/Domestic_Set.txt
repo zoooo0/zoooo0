@@ -238,3 +238,17 @@ DOMAIN,guid.tpns.sh.tencent.com
 DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,bsgslb.cn
+DOMAIN-SUFFIX,txtshuku.org
+DOMAIN-SUFFIX,picc.com.cn
+DOMAIN-SUFFIX,epicc.com.cn
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,picclife.cn
+DOMAIN-SUFFIX,picc.com
+DOMAIN-SUFFIX,piccgroup.cn
+DOMAIN,post-cn-7mz2e5hc90i.mqtt.aliyuncs.com
+DOMAIN-SUFFIX,5eplaycdn.com
+DOMAIN-SUFFIX,lilithgame.com
+DOMAIN,easybike-image.cn-hangzhou.oss.aliyuncs.com
+DOMAIN-SUFFIX,codefuture.top
+DOMAIN-SUFFIX,ialicdn.com
