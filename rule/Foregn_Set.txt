@@ -298,3 +298,17 @@ DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN,itunes.com
+DOMAIN-SUFFIX,hdhive.org
+DOMAIN,xhlive.org
+DOMAIN-SUFFIX,private-user-images.githubusercontent.com
+DOMAIN-SUFFIX,farlightgmes.com
+DOMAIN-SUFFIX,odytv.org
+DOMAIN-SUFFIX,feibzw.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,ip-score.com
+DOMAIN-SUFFIX,ipwhois.app
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,api-ipv4.ip.sb
+DOMAIN-SUFFIX,hytron.io
+DOMAIN-SUFFIX,ampaeservices.com
