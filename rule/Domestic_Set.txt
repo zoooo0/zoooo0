@@ -560,4 +560,5 @@ DOMAIN-SUFFIX,portal101.cn
 DOMAIN-SUFFIX,h.pppeeesss.at
 DOMAIN-SUFFIX,tower.pppeeesss.at
 IP-CIDR,192.168.18.0/24
+DOMAIN-SUFFIX,unraid.net
 
