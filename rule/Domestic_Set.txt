@@ -557,24 +557,7 @@ DOMAIN,flowus.cn // Added for: flowus.cn:443
 DOMAIN,ncre.neea.edu.cn
 DOMAIN-SUFFIX,yhgfb-cn-static.com
 DOMAIN-SUFFIX,portal101.cn
-DOMAIN-SUFFIX,hltv.org
-DOMAIN,registry-1.docker.io
-DOMAIN-SUFFIX,telecomsemi.xyz
-DOMAIN-SUFFIX,flowith
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,nexusmods.com
-DOMAIN-SUFFIX,nexus-cdn.com
-DOMAIN-SUFFIX,odytv.org
-DOMAIN-SUFFIX,xxxx.icu
-DOMAIN-SUFFIX,modrinth.com
-DOMAIN-SUFFIX,notion.site
-DOMAIN-SUFFIX,mikanani.me
-DOMAIN-SUFFIX,gitmirror.com
-DOMAIN-SUFFIX,18comic
-DOMAIN-SUFFIX,nnr.moe
-DOMAIN-SUFFIX,odysseyplus.site
-DOMAIN-SUFFIX,odylife.org
-DOMAIN-SUFFIX,netcup 
-DOMAIN-SUFFIX,xns.one
-DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,h.pppeeesss.at
+DOMAIN-SUFFIX,tower.pppeeesss.at
+IP-CIDR,192.168.18.0/24
 
