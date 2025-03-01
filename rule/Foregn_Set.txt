@@ -3,8 +3,6 @@ DOMAIN-SUFFIX,bugsnag.com
 DOMAIN,cdn-settings.segment.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,content-storage-upload.googleapis.com
-DOMAIN,img-cdn.hltv.org
-DOMAIN-SUFFIX,hltv.org
 DOMAIN-SUFFIX,efficiencyfollow.notion.site
 DOMAIN-SUFFIX,zkl2333.notion.site
 DOMAIN-SUFFIX,raw.githubusercontent.com
@@ -367,9 +365,6 @@ DOMAIN-SUFFIX,firecore.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,mmarket.com
 DOMAIN-SUFFIX,agrd.eu
-DOMAIN,alibabacloud.com
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,matomo.cloud
 DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,firebaseinappmessaging.googleapis.com
