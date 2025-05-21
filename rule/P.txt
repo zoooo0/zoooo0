@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/5/19 09:57:20
-# 规则数量：当前共 822 条规则
+# 更新时间: 2025/5/21 17:52:20
+# 规则数量：当前共 828 条规则
 
 DOMAIN,18comic.vip
 DOMAIN,1lib.sk
@@ -409,7 +409,9 @@ DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,godkc.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gslnetworks.com
 DOMAIN-SUFFIX,gstatic.com
@@ -566,6 +568,7 @@ DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nitelusa.net
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,nnr.moe
+DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
@@ -808,6 +811,7 @@ DOMAIN-SUFFIX,yellowmessenger.com
 DOMAIN-SUFFIX,yieldmo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yiove.com
+DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,zapier.app
 DOMAIN-SUFFIX,zapier.com
 DOMAIN-SUFFIX,zdassets.com
@@ -821,8 +825,10 @@ DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zjsw.org
 DOMAIN-SUFFIX,zwduxs.com
 IP-CIDR,129.226.96.0/20
+IP-CIDR,149.154.162.0/23
 IP-CIDR,149.154.167.0/24
 IP-CIDR,149.154.171.0/24
 IP-CIDR,149.154.175.0/24
 IP-CIDR,43.129.192.0/18
+IP-CIDR,43.159.224.0/19
 IP-CIDR,91.108.56.0/24
