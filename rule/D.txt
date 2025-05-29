@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/5/21 17:52:20
-# 规则数量：当前共 582 条规则
+# 更新时间: 2025/5/29 11:47:53
+# 规则数量：当前共 588 条规则
 
 DOMAIN,aliyundrive.pro
 DOMAIN,amazon.cn
@@ -256,6 +256,8 @@ DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,ietheivaicai.com
 DOMAIN-SUFFIX,immotors.com
@@ -328,6 +330,7 @@ DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,onewo.com
 DOMAIN-SUFFIX,onezapp.com
 DOMAIN-SUFFIX,open-douyin.com
+DOMAIN-SUFFIX,osase.net
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
@@ -340,12 +343,14 @@ DOMAIN-SUFFIX,picc.com
 DOMAIN-SUFFIX,pidanzhou.top
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,pppeeesss.at
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,profitwell.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,pupuapi.com
 DOMAIN-SUFFIX,pupumall.com
+DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcloud.la
 DOMAIN-SUFFIX,qidian.com
@@ -446,6 +451,7 @@ DOMAIN-SUFFIX,v3mh.com
 DOMAIN-SUFFIX,vanke.com
 DOMAIN-SUFFIX,vanke.com:443
 DOMAIN-SUFFIX,vankeservice.com
+DOMAIN-SUFFIX,vankeservice.com:443
 DOMAIN-SUFFIX,vanrui.com
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,vercel.app

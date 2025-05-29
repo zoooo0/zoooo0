@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/5/21 17:52:20
-# 规则数量：当前共 828 条规则
+# 更新时间: 2025/5/29 11:47:53
+# 规则数量：当前共 836 条规则
 
 DOMAIN,18comic.vip
 DOMAIN,1lib.sk
@@ -309,6 +309,7 @@ DOMAIN-SUFFIX,centurylink.net
 DOMAIN-SUFFIX,cfandora.com
 DOMAIN-SUFFIX,checktrustworthiness.com
 DOMAIN-SUFFIX,claspws.tv
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudflarestream.com
 DOMAIN-SUFFIX,cloudfrale.com
@@ -387,6 +388,7 @@ DOMAIN-SUFFIX,flo.ing
 DOMAIN-SUFFIX,flowith
 DOMAIN-SUFFIX,flowith.io
 DOMAIN-SUFFIX,flowith.net
+DOMAIN-SUFFIX,follow.is
 DOMAIN-SUFFIX,font.im
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,fpt.vn
@@ -449,6 +451,7 @@ DOMAIN-SUFFIX,in
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intercom.com
 DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,jackiewu.top
 DOMAIN-SUFFIX,jads.co
 DOMAIN-SUFFIX,javday.online
@@ -612,6 +615,7 @@ DOMAIN-SUFFIX,phoenixnap.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,plex.direct:32400
+DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plexopedia.com
 DOMAIN-SUFFIX,podtrac.com
 DOMAIN-SUFFIX,popo8.com
@@ -812,6 +816,7 @@ DOMAIN-SUFFIX,yieldmo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yiove.com
 DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zapier.app
 DOMAIN-SUFFIX,zapier.com
 DOMAIN-SUFFIX,zdassets.com
@@ -826,9 +831,12 @@ DOMAIN-SUFFIX,zjsw.org
 DOMAIN-SUFFIX,zwduxs.com
 IP-CIDR,129.226.96.0/20
 IP-CIDR,149.154.162.0/23
+IP-CIDR,149.154.164.0/23
 IP-CIDR,149.154.167.0/24
 IP-CIDR,149.154.171.0/24
 IP-CIDR,149.154.175.0/24
+IP-CIDR,43.129.128.0/20
 IP-CIDR,43.129.192.0/18
 IP-CIDR,43.159.224.0/19
+IP-CIDR,5.28.192.0/18
 IP-CIDR,91.108.56.0/24
