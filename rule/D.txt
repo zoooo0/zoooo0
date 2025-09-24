@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/5/29 11:47:53
-# 规则数量：当前共 588 条规则
+# 更新时间: 2025/5/17 20:22:04
+# 规则数量：当前共 600 条规则
 
 DOMAIN,aliyundrive.pro
 DOMAIN,amazon.cn
@@ -58,7 +58,6 @@ DOMAIN-SUFFIX,a5b.cc
 DOMAIN-SUFFIX,aatkit.com
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adsmoloco.com
-DOMAIN-SUFFIX,adtrafficquality.google
 DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,afcdn.net
 DOMAIN-SUFFIX,ahdohpiechei.com
@@ -141,7 +140,6 @@ DOMAIN-SUFFIX,byteeffecttos.com
 DOMAIN-SUFFIX,bytefae.com
 DOMAIN-SUFFIX,bytegecko.com
 DOMAIN-SUFFIX,bytegeckoext.com
-DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytehwm.com
 DOMAIN-SUFFIX,byteimg.com
 DOMAIN-SUFFIX,bytemaimg.com
@@ -202,9 +200,6 @@ DOMAIN-SUFFIX,didistatic.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,dingdanll.com
 DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,dingxiang-inc.com
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.net
@@ -237,13 +232,11 @@ DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
-DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gvt1-cn.com
 DOMAIN-SUFFIX,hbgsetc.com
 DOMAIN-SUFFIX,hbkjfz.com
 DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,hiaiabc.com
 DOMAIN-SUFFIX,huazhu.com
 DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,hunantv.com
@@ -256,8 +249,6 @@ DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,idouyinvod.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,ietheivaicai.com
 DOMAIN-SUFFIX,immotors.com
@@ -330,7 +321,6 @@ DOMAIN-SUFFIX,onethingpcs.com
 DOMAIN-SUFFIX,onewo.com
 DOMAIN-SUFFIX,onezapp.com
 DOMAIN-SUFFIX,open-douyin.com
-DOMAIN-SUFFIX,osase.net
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
@@ -343,14 +333,12 @@ DOMAIN-SUFFIX,picc.com
 DOMAIN-SUFFIX,pidanzhou.top
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pinduoduo.net
-DOMAIN-SUFFIX,pppeeesss.at
 DOMAIN-SUFFIX,prodregistryv2.org
 DOMAIN-SUFFIX,profitwell.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,pupuapi.com
 DOMAIN-SUFFIX,pupumall.com
-DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcloud.la
 DOMAIN-SUFFIX,qidian.com
@@ -445,13 +433,11 @@ DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,umetrip.com
 DOMAIN-SUFFIX,unrealengine.com
-DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,v3mh.com
 DOMAIN-SUFFIX,vanke.com
 DOMAIN-SUFFIX,vanke.com:443
 DOMAIN-SUFFIX,vankeservice.com
-DOMAIN-SUFFIX,vankeservice.com:443
 DOMAIN-SUFFIX,vanrui.com
 DOMAIN-SUFFIX,vegslb.com
 DOMAIN-SUFFIX,vercel.app
