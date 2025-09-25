@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/9/24 15:24:28
-# 规则数量：当前共 972 条规则
+# 更新时间: 2025/9/25 09:00:20
+# 规则数量：当前共 974 条规则
 
 DOMAIN,18comic.vip
 DOMAIN,1lib.sk
@@ -273,6 +273,7 @@ DOMAIN-SUFFIX,auryc.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,automa.site
 DOMAIN-SUFFIX,ax1x.com
+DOMAIN-SUFFIX,azure-sun.cc
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b4yh4tyj46.com
@@ -646,6 +647,7 @@ DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,nitelusa.net
 DOMAIN-SUFFIX,nn.ci
 DOMAIN-SUFFIX,nnr.moe
+DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.site
