@@ -924,7 +924,6 @@ DOMAIN-SUFFIX,vntsm.io
 DOMAIN-SUFFIX,volcanicengine.com
 DOMAIN-SUFFIX,wallkit.net
 DOMAIN-SUFFIX,website-files.com
-DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weszxdrf.com
 DOMAIN-SUFFIX,whatthespeed.com
 DOMAIN-SUFFIX,wikimedia.org
