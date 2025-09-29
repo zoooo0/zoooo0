@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/9/25 09:00:20
-# 规则数量：当前共 679 条规则
+# 更新时间: 2025/9/29 09:23:59
+# 规则数量：当前共 700 条规则
 
 DOMAIN,aliyundrive.pro
 DOMAIN,amazon.cn
@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,18comic.vip
 DOMAIN-SUFFIX,1sapp.com
@@ -44,6 +45,7 @@ DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,300hu.com
 DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,360kan.com
+DOMAIN-SUFFIX,365yg.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-SUFFIX,4009515151.com
@@ -107,6 +109,7 @@ DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appointeeivyspongy.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appykt.com
+DOMAIN-SUFFIX,authing.co
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,awdeliverynet.com
 DOMAIN-SUFFIX,awemeugwave.com
@@ -147,6 +150,7 @@ DOMAIN-SUFFIX,brg0.com
 DOMAIN-SUFFIX,bsbsb.top
 DOMAIN-SUFFIX,bspapp.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,bwton.com
 DOMAIN-SUFFIX,bydoceanauto.com
 DOMAIN-SUFFIX,byteacctimg.com
 DOMAIN-SUFFIX,bytecdn.com
@@ -177,6 +181,7 @@ DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cece.com
 DOMAIN-SUFFIX,celebs.live
 DOMAIN-SUFFIX,chediandian.com
+DOMAIN-SUFFIX,cherry-ai.com
 DOMAIN-SUFFIX,chiccams.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,chinanetcenter.com
@@ -252,8 +257,11 @@ DOMAIN-SUFFIX,duoweisoft.com
 DOMAIN-SUFFIX,dutils.com
 DOMAIN-SUFFIX,dxz.plus
 DOMAIN-SUFFIX,eaglesase2.com
+DOMAIN-SUFFIX,easygame2021.com
 DOMAIN-SUFFIX,easytomessage.com
+DOMAIN-SUFFIX,ebopark.com
 DOMAIN-SUFFIX,echargenet.com
+DOMAIN-SUFFIX,echatsoft.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ecombdpage.com
@@ -270,6 +278,7 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,fenqile.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,genmin.icu
 DOMAIN-SUFFIX,gepush.com
 DOMAIN-SUFFIX,getui.com
@@ -294,6 +303,7 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,huimaibuy.net
 DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,huoshanimg.com
+DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,hwwt8.com
 DOMAIN-SUFFIX,hyext.com
@@ -308,6 +318,8 @@ DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,ietheivaicai.com
 DOMAIN-SUFFIX,ifanrusercontent.com
 DOMAIN-SUFFIX,immotors.com
+DOMAIN-SUFFIX,inboyu.com
+DOMAIN-SUFFIX,ip33.com
 DOMAIN-SUFFIX,isvjcloud.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,ixigua.com
@@ -317,6 +329,7 @@ DOMAIN-SUFFIX,jdcloud-oss.com
 DOMAIN-SUFFIX,jdl.com
 DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,jellow.site
+DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,jiawei.xin
 DOMAIN-SUFFIX,jiayudata.com
 DOMAIN-SUFFIX,kejicut.com
@@ -370,6 +383,8 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,mobsurl.com
+DOMAIN-SUFFIX,modelscope.net
+DOMAIN-SUFFIX,molishe.com
 DOMAIN-SUFFIX,moyangmoyang.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,mtgglobals.com
@@ -421,6 +436,7 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,puata.info
 DOMAIN-SUFFIX,pupuapi.com
 DOMAIN-SUFFIX,pupumall.com
+DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcloud.la
 DOMAIN-SUFFIX,qidian.com
@@ -443,6 +459,7 @@ DOMAIN-SUFFIX,raycast.com
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,rc-backup.com
 DOMAIN-SUFFIX,rdrtly.com
+DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,reflix.top
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,rmhfrtnd.com
@@ -485,6 +502,7 @@ DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,solar-engine.com
 DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,szxsshb.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,taopiaopiao.com
@@ -507,6 +525,7 @@ DOMAIN-SUFFIX,tlivedns.com
 DOMAIN-SUFFIX,tlivemcdn.com
 DOMAIN-SUFFIX,tlivesource.com
 DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmallyc.com
 DOMAIN-SUFFIX,tongdun.net
 DOMAIN-SUFFIX,topfreeweb.net
 DOMAIN-SUFFIX,toutiao.com
@@ -517,6 +536,7 @@ DOMAIN-SUFFIX,tuhu.com
 DOMAIN-SUFFIX,tuhu.org
 DOMAIN-SUFFIX,tuiyouyou.com
 DOMAIN-SUFFIX,tuodan.tech
+DOMAIN-SUFFIX,tuxingren.com
 DOMAIN-SUFFIX,txtshuku.org
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,udache.com
@@ -526,6 +546,7 @@ DOMAIN-SUFFIX,ulikepic.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,umengcloud.com
 DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,usertrust.com

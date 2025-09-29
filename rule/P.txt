@@ -1,8 +1,8 @@
 # 手动规则: 以下规则优先级最高 不参与规则数量统计
 
 
-# 更新时间: 2025/9/25 09:00:20
-# 规则数量：当前共 974 条规则
+# 更新时间: 2025/9/29 09:23:59
+# 规则数量：当前共 996 条规则
 
 DOMAIN,18comic.vip
 DOMAIN,1lib.sk
@@ -298,6 +298,7 @@ DOMAIN-SUFFIX,browser-intake-us5-datadoghq.com
 DOMAIN-SUFFIX,btc620.com
 DOMAIN-SUFFIX,btloader.com
 DOMAIN-SUFFIX,bunny.net
+DOMAIN-SUFFIX,burp
 DOMAIN-SUFFIX,byted.org
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,byteoversea.com
@@ -347,6 +348,7 @@ DOMAIN-SUFFIX,datatables.net
 DOMAIN-SUFFIX,day.app
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,decrypt.day
+DOMAIN-SUFFIX,deepflood.com
 DOMAIN-SUFFIX,deltadna.net
 DOMAIN-SUFFIX,demandbase.com
 DOMAIN-SUFFIX,demdex.net
@@ -362,6 +364,7 @@ DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerstatic.com
+DOMAIN-SUFFIX,dogenet.work
 DOMAIN-SUFFIX,donlgx.net
 DOMAIN-SUFFIX,dooo.ng
 DOMAIN-SUFFIX,doppiocdn.live
@@ -400,12 +403,15 @@ DOMAIN-SUFFIX,farlightgmes.com
 DOMAIN-SUFFIX,fastclick.net
 DOMAIN-SUFFIX,fastly-analytics.com
 DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fatwang2.com
+DOMAIN-SUFFIX,favicon.im
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fdcservers.net
 DOMAIN-SUFFIX,featurebase.app
 DOMAIN-SUFFIX,featurebaseapp.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,feibzw.com
+DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,fileball.app
 DOMAIN-SUFFIX,filmcloud.shop
 DOMAIN-SUFFIX,filmtoday.cc
@@ -447,6 +453,7 @@ DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,go-mpulse.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,godkc.com
+DOMAIN-SUFFIX,gongke.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleapis.com
@@ -469,6 +476,7 @@ DOMAIN-SUFFIX,guangzhengli.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gxftqd.com
 DOMAIN-SUFFIX,hadronid.net
+DOMAIN-SUFFIX,hash070.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,hciri.com
 DOMAIN-SUFFIX,hdhive.org
@@ -494,6 +502,7 @@ DOMAIN-SUFFIX,i18n-pglstatp.com
 DOMAIN-SUFFIX,i3d.net
 DOMAIN-SUFFIX,ibiquges.org
 DOMAIN-SUFFIX,ibruce.info
+DOMAIN-SUFFIX,icon.horse
 DOMAIN-SUFFIX,iconify.design
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,id5-sync.com
@@ -510,6 +519,7 @@ DOMAIN-SUFFIX,inmobicdn.net
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,jable.tv
@@ -586,6 +596,7 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metadata.io
 DOMAIN-SUFFIX,metricswpsh.com
 DOMAIN-SUFFIX,metshop.top
+DOMAIN-SUFFIX,miantiao.me
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoft.net
 DOMAIN-SUFFIX,microsoftonline.com
@@ -598,6 +609,7 @@ DOMAIN-SUFFIX,mintlify.app
 DOMAIN-SUFFIX,mintlify.com
 DOMAIN-SUFFIX,misaka.one
 DOMAIN-SUFFIX,misaka2.net
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mktoresp.com
@@ -606,6 +618,7 @@ DOMAIN-SUFFIX,mmcdn.com
 DOMAIN-SUFFIX,mnaspm.com
 DOMAIN-SUFFIX,mncdn.com
 DOMAIN-SUFFIX,moanlengthen.com
+DOMAIN-SUFFIX,models.dev
 DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,motiful.ai
 DOMAIN-SUFFIX,movie-pilot.org
@@ -667,6 +680,8 @@ DOMAIN-SUFFIX,odytv.org
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,ohmycdn.com
+DOMAIN-SUFFIX,ohmygpt.com
 DOMAIN-SUFFIX,onaudience.com
 DOMAIN-SUFFIX,onclckstr.com
 DOMAIN-SUFFIX,one.one
@@ -674,6 +689,7 @@ DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,opapi.win
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,openrouter.ai
@@ -732,6 +748,7 @@ DOMAIN-SUFFIX,quality-traffic.com
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,qust.me
+DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,ratatoskr.org
 DOMAIN-SUFFIX,rawgit.com
@@ -765,6 +782,7 @@ DOMAIN-SUFFIX,seagate.com
 DOMAIN-SUFFIX,seeyoufarm.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,serper.dev
 DOMAIN-SUFFIX,sexfortokens.com
 DOMAIN-SUFFIX,sg
 DOMAIN-SUFFIX,sgdn.io
@@ -795,6 +813,7 @@ DOMAIN-SUFFIX,soraharu.com
 DOMAIN-SUFFIX,soushu2031.com
 DOMAIN-SUFFIX,soushu2034.com
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,splitbee.io
 DOMAIN-SUFFIX,splunkcloud.com
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,sptel.com
@@ -906,8 +925,10 @@ DOMAIN-SUFFIX,volcanicengine.com
 DOMAIN-SUFFIX,wallkit.net
 DOMAIN-SUFFIX,website-files.com
 DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weszxdrf.com
 DOMAIN-SUFFIX,whatthespeed.com
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,wisepops.com
@@ -973,6 +994,7 @@ IP-CIDR,34.128.128.0/17
 IP-CIDR,34.32.0.0/11
 IP-CIDR,43.129.128.0/20
 IP-CIDR,43.129.192.0/18
+IP-CIDR,43.135.64.0/18
 IP-CIDR,43.159.224.0/19
 IP-CIDR,47.246.100.0/22
 IP-CIDR,47.253.0.0/17
