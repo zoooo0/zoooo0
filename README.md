@@ -1,6 +1,5 @@
 # Hi there, I'm zoooo0 👋
 
----
 
 ### 🚀 欢迎来到我的 GitHub 主页！
 
@@ -8,10 +7,10 @@
 
 在这里，您可以找到我在各种编程领域的实验，包括但不限于：
 
-    *   `Web 开发 (React/Vue/Node.js)`
-    *   `人工智能与机器学习 (Python/PyTorch/TensorFlow)`
-    *   `后端工程 (Go/Rust/Java)`
-    *   `DevOps/云原生技术 (Docker/Kubernetes)`
+*   Web 开发 (React/Vue/Node.js)
+*   人工智能与机器学习 (Python/PyTorch/TensorFlow)
+*   后端工程 (Go/Rust/Java)
+*   DevOps/云原生技术 (Docker/Kubernetes)
 
 ### 🛠️ 技术栈与工具
 
