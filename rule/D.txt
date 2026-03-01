@@ -123,8 +123,6 @@ DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,appinn.com
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appointeeivyspongy.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,appykt.com
