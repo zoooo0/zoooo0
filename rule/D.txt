@@ -808,3 +808,6 @@ IP-CIDR,58.19.0.0/16
 IP-CIDR,59.32.0.0/13
 IP-CIDR,8.153.16.0/24
 IP-CIDR,81.68.0.0/14
+
+DOMAIN,immtele.com // Added for: immtele.com:443
+DOMAIN,api.prodigal4936.com // Added for: api.prodigal4936.com:443
