@@ -87,7 +87,6 @@ DOMAIN,http.cat
 DOMAIN,huangsewenxue.com
 DOMAIN,icanhazip.com
 DOMAIN,id5-sync.com
-DOMAIN,immtele.com
 DOMAIN,indify.co
 DOMAIN,interestingsomething.com
 DOMAIN,invol.co
@@ -1047,6 +1046,8 @@ DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,zjsw.org
 DOMAIN-SUFFIX,zwduxs.com
 DOMAIN-SUFFIX,zynga.com
+DOMAIN-KEYWORD,afkjourney
+DOMAIN-KEYWORD,ghcr
 IP-CIDR,103.186.118.0/24
 IP-CIDR,129.226.96.0/20
 IP-CIDR,138.19.192.0/18
