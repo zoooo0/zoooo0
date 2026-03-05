@@ -96,7 +96,6 @@ DOMAIN,iui.su
 DOMAIN,javday.tv
 DOMAIN,joyous-battle.com
 DOMAIN,kcaactpkyp.com
-DOMAIN,kelee.one
 DOMAIN,ko-fi.com
 DOMAIN,lemonhd.club
 DOMAIN,lengzzz.com
@@ -560,7 +559,6 @@ DOMAIN-SUFFIX,jwplayer.com
 DOMAIN-SUFFIX,k2sonnet.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,kaixinwx.net
-DOMAIN-SUFFIX,kelee.one
 DOMAIN-SUFFIX,kikliko.com
 DOMAIN-SUFFIX,killcovid2021.com
 DOMAIN-SUFFIX,kkkob.com
