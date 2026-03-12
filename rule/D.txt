@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,xinstall.top
 IP-CIDR,192.168.0.0/16
 # other content...
+DOMAIN,immtele.com // Added for: immtele.com:443
+DOMAIN,api.prodigal4936.com // Added for: api.prodigal4936.com:443
