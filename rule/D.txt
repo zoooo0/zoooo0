@@ -1,7 +1,4 @@
-# This rule list contains 791 rules.
 
-# DOMAIN rules
-# other rules...
 
 DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement.com
@@ -18,7 +15,5 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,xinstall.top
-IP-CIDR,192.168.0.0/16
-# other content...
-DOMAIN,immtele.com // Added for: immtele.com:443
-DOMAIN,api.prodigal4936.com // Added for: api.prodigal4936.com:443
+DOMAIN,immtele.com 
+DOMAIN,api.prodigal4936.com 
