@@ -1,0 +1,23 @@
+# AI 服务规则 - 主配置引用: RULE-SET,Rule/AI.txt,Outside⁺,extended-matching
+# 由 P.txt 迁入: openai/chatgpt/anthropic等新增; 如需 OpenAI 单独走新加坡,
+# 在主配置本 RULE-SET 之前加 DOMAIN-SUFFIX,openai.com,Singapore 即可覆盖
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,copilot.microsoft.com

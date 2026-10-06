@@ -15,5 +15,43 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,uri6.com
 DOMAIN-SUFFIX,xinstall.top
-DOMAIN,immtele.com 
-DOMAIN,api.prodigal4936.com 
+DOMAIN,immtele.com
+DOMAIN,api.prodigal4936.com
+
+
+# ===== 微软直连（Copilot/OneDrive 除外，见主配置手动区与 AI.txt）=====
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoft.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoftazuread-sso.com
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,plex.direct
+
+# ===== Apple 直连 =====
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,cdn-apple.com
+
+# ===== 游戏下载 CDN 直连 =====
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,epicgames-download1.com
+DOMAIN-KEYWORD,steamcdn
+
+# ===== 局域网/内网直连 =====
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve

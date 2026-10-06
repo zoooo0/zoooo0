@@ -2,7 +2,7 @@
 
 
 # 更新时间: 2026/3/1 10:47:42
-# 规则数量：当前共 1075 条规则
+# 规则数量：当前共 1028 条规则
 
 DOMAIN,18comic.vip
 DOMAIN,1lib.sk
@@ -12,16 +12,13 @@ DOMAIN,5ivy3ikkt.com
 DOMAIN,ad-delivery.net
 DOMAIN,adguard.com
 DOMAIN,afdian.com
-DOMAIN,akamai.com
 DOMAIN,aktv.space
-DOMAIN,amazon.com
 DOMAIN,anycast.gay
 DOMAIN,apk.cat
 DOMAIN,apnews.com
 DOMAIN,appointeeivyspongy.com
 DOMAIN,arc.net
 DOMAIN,automa.wiki
-DOMAIN,azure.com
 DOMAIN,bankingbloatedcaptive.com
 DOMAIN,bestfunnyads.com
 DOMAIN,bestvm.cloud
@@ -29,13 +26,10 @@ DOMAIN,bigchick.xyz
 DOMAIN,bigdata.icu
 DOMAIN,bigheads.io
 DOMAIN,biliuniverse.io
-DOMAIN,binance.com
 DOMAIN,bit.ly
-DOMAIN,blinko.space
 DOMAIN,boist.org
 DOMAIN,boringavatars.com
 DOMAIN,brave2049.com
-DOMAIN,browser-intake-datadoghq.com
 DOMAIN,bullionglidingscuttle.com
 DOMAIN,cambaddies.com
 DOMAIN,celebs.live
@@ -48,12 +42,8 @@ DOMAIN,crazyvideotodownload.com
 DOMAIN,cusdis.com
 DOMAIN,cvbox.org
 DOMAIN,dash.xns.one // Added for: dash.xns.one:443
-DOMAIN,decrypt.day
 DOMAIN,diligencejusticeimprobable.com
-DOMAIN,discord.com
-DOMAIN,disqus.com
 DOMAIN,divisiondrearilyunfiled.com
-DOMAIN,dns.google
 DOMAIN,dreamlikefostergala.com
 DOMAIN,esportsbet.io
 DOMAIN,evine.win
@@ -64,8 +54,6 @@ DOMAIN,feedx.net
 DOMAIN,femoon.top
 DOMAIN,flagcdn.com
 DOMAIN,flo.host
-DOMAIN,flo.ing
-DOMAIN,flowith.io
 DOMAIN,freestrip.chat
 DOMAIN,frp-can.com
 DOMAIN,getavataaars.com
@@ -77,16 +65,13 @@ DOMAIN,gusadrwacg.com
 DOMAIN,hachyderm.io
 DOMAIN,hao.su
 DOMAIN,hawke.uno
-DOMAIN,hcaptcha.com
 DOMAIN,hcilralhi.com
-DOMAIN,heapanalytics.com
 DOMAIN,hexagon-analytics.com
 DOMAIN,holahupa.com
 DOMAIN,hostloc.com
 DOMAIN,http.cat
 DOMAIN,huangsewenxue.com
 DOMAIN,icanhazip.com
-DOMAIN,id5-sync.com
 DOMAIN,indify.co
 DOMAIN,interestingsomething.com
 DOMAIN,invol.co
@@ -96,7 +81,6 @@ DOMAIN,iui.su
 DOMAIN,javday.tv
 DOMAIN,joyous-battle.com
 DOMAIN,kcaactpkyp.com
-DOMAIN,ko-fi.com
 DOMAIN,lemonhd.club
 DOMAIN,lengzzz.com
 DOMAIN,littlecdn.com
@@ -107,17 +91,14 @@ DOMAIN,mega.nz
 DOMAIN,mikucloud.co
 DOMAIN,mili.one
 DOMAIN,miot-spec.org
-DOMAIN,movie-pilot.org
 DOMAIN,movieweb.com
 DOMAIN,mywebcamroom.com
 DOMAIN,nereserv.com
 DOMAIN,notion-avatar.app
 DOMAIN,open-meteo.com
 DOMAIN,openwebui.com
-DOMAIN,openwrt.ai
 DOMAIN,ping0.cc
 DOMAIN,pippio.com
-DOMAIN,playhubconnect.com
 DOMAIN,prodregistryv2.org
 DOMAIN,prreqcroab.icu
 DOMAIN,ptcfc.com
@@ -140,20 +121,15 @@ DOMAIN,stripchat.com
 DOMAIN,stripchat.global
 DOMAIN,stripchat.ooo
 DOMAIN,stripchat.webcam
-DOMAIN,stripchatgirls.com
 DOMAIN,stripchats.io
 DOMAIN,strp.chat
 DOMAIN,sunnypt.top
-DOMAIN,suntechspeedtest.com
 DOMAIN,superchat.live
 DOMAIN,superchatlive.com
 DOMAIN,surge.tel
-DOMAIN,swag.live
 DOMAIN,syndicatedsearch.goog
-DOMAIN,t.co
 DOMAIN,t.me
 DOMAIN,tanhuatv.site
-DOMAIN,telegra.ph
 DOMAIN,telegram.org
 DOMAIN,texon.io
 DOMAIN,tganalytics.xyz
@@ -161,15 +137,12 @@ DOMAIN,ton.org
 DOMAIN,trackcmp.net
 DOMAIN,transcend-cdn.com
 DOMAIN,trendshift.io
-DOMAIN,tsyndicate.com
-DOMAIN,unpkg.com
 DOMAIN,wepc.au
 DOMAIN,wepc.wiki
 DOMAIN,werun.id
 DOMAIN,whatshub.top
 DOMAIN,wisepops.net
 DOMAIN,wzijtuxzut.com
-DOMAIN,x.com
 DOMAIN,xham.live
 DOMAIN,xhamster.com
 DOMAIN,xhamsterlive.com
@@ -192,12 +165,12 @@ DOMAIN,z-lib.id
 DOMAIN,z-lib.nz
 DOMAIN,z-library.sk
 DOMAIN,zdbb.net
-DOMAIN,zen-browser.app
 DOMAIN,zpefriam.com
 DOMAIN-SUFFIX,000714.xyz
 DOMAIN-SUFFIX,023626.xyz
 DOMAIN-SUFFIX,111666.best
 DOMAIN-SUFFIX,112114.xyz
+DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,15sc.cc
 DOMAIN-SUFFIX,16personalities.com
 DOMAIN-SUFFIX,18comic
@@ -273,6 +246,7 @@ DOMAIN-SUFFIX,appiersig.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,apppie.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,aucdn.net
 DOMAIN-SUFFIX,auryc.com
 DOMAIN-SUFFIX,auth0.com
@@ -327,7 +301,6 @@ DOMAIN-SUFFIX,cellrebel.com
 DOMAIN-SUFFIX,centurylink.net
 DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,cfandora.com
-DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,checktrustworthiness.com
 DOMAIN-SUFFIX,chnsrv.com
 DOMAIN-SUFFIX,chuncheon123.xyz
@@ -580,8 +553,6 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,liudatxt.net
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,llingfei.com
 DOMAIN-SUFFIX,lnk0.com
 DOMAIN-SUFFIX,lobehub.com
@@ -617,11 +588,7 @@ DOMAIN-SUFFIX,metadata.io
 DOMAIN-SUFFIX,metricswpsh.com
 DOMAIN-SUFFIX,metshop.top
 DOMAIN-SUFFIX,miantiao.me
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoft.net
-DOMAIN-SUFFIX,microsoftazuread-sso.com
-DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
 DOMAIN-SUFFIX,mij.rip
 DOMAIN-SUFFIX,miji.bid
 DOMAIN-SUFFIX,mikanani.me
@@ -631,7 +598,6 @@ DOMAIN-SUFFIX,mintlify.com
 DOMAIN-SUFFIX,miromind.ai
 DOMAIN-SUFFIX,misaka.one
 DOMAIN-SUFFIX,misaka2.net
-DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,mktoresp.com
@@ -651,10 +617,6 @@ DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mrktmtrcs.net
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,multstorage.com
 DOMAIN-SUFFIX,muzzleexterminator.com
 DOMAIN-SUFFIX,my.id
@@ -697,25 +659,20 @@ DOMAIN-SUFFIX,nsmhub.com
 DOMAIN-SUFFIX,ntrrr.top
 DOMAIN-SUFFIX,nu6kiu4yuk5.com
 DOMAIN-SUFFIX,nupt4j5yt4.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,odylife.org
 DOMAIN-SUFFIX,odysseyplus.site
 DOMAIN-SUFFIX,odytv.org
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,ohmycdn.com
 DOMAIN-SUFFIX,ohmygpt.com
 DOMAIN-SUFFIX,onaudience.com
 DOMAIN-SUFFIX,onclckstr.com
 DOMAIN-SUFFIX,one.one
+DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,onetrust.io
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,opapi.win
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,openstreetmap.org
@@ -736,7 +693,6 @@ DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,perfops.io
-DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phoenixnap.com
 DOMAIN-SUFFIX,picsum.photos
@@ -744,7 +700,6 @@ DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,playhubconnect.com
-DOMAIN-SUFFIX,plex.direct:32400
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plexopedia.com
 DOMAIN-SUFFIX,pmang.cloud
@@ -780,7 +735,6 @@ DOMAIN-SUFFIX,quality-traffic.com
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,quantummetric.com
 DOMAIN-SUFFIX,qust.me
-DOMAIN-SUFFIX,qwen.ai
 DOMAIN-SUFFIX,qzz.io
 DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,ratatoskr.org
