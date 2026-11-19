@@ -19,40 +19,17 @@ DOMAIN,immtele.com
 DOMAIN,api.prodigal4936.com
 
 
-# ===== 微软直连（Copilot/OneDrive 除外，见主配置手动区与 AI.txt）=====
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoft.net
-DOMAIN-SUFFIX,microsoftonline.com
-DOMAIN-SUFFIX,microsoftazuread-sso.com
-DOMAIN-SUFFIX,microsofttranslator.com
-DOMAIN-SUFFIX,msauth.net
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,cloud.microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing.net
+# ===== 微软：已由主配置的 Microsoft 策略组（915 条）覆盖，这里不再重复 =====
 DOMAIN-SUFFIX,plex.direct
 
-# ===== Apple 直连 =====
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,cdn-apple.com
+# ===== Apple：已由 GEOSITE,apple / apple-cn 覆盖，这里不再重复 =====
 
-# ===== 国内 AI 直连 =====
-DOMAIN-SUFFIX,qwen.ai
+# ===== 国内 AI 直连：qwen.ai 移到主配置（global 的 .ai 后缀会先命中）=====
 
 # ===== 游戏下载 CDN 直连 =====
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,epicgames-download1.com
-DOMAIN-KEYWORD,steamcdn
+# steamcdn 关键词移到主配置（global 的 akamaihd.net 会先命中）
 
 # ===== 局域网/内网直连 =====
 IP-CIDR,10.0.0.0/8,no-resolve
